@@ -1,0 +1,28 @@
+.div-red{
+    background-color: red;
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 25%;
+    width: 70%;
+}
+.div-relative{
+    position: relative;
+}
+
+.a-Free{
+    font-style: italic;
+    color: black;
+    text-decoration: underline;
+}
+
+.div-content-1{
+    text-align: left;
+    padding-right: 20%;
+    margin-bottom: 100px;
+}
+
+.div-content-2{
+    text-align: right;
+    padding-left: 20%;
+}
